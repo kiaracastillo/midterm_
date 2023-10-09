@@ -1,0 +1,59 @@
+.info .hero2 {
+  width: 100%;
+  height: 560px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.63)), to(rgba(0, 0, 0, 0.5))), url(../images/hero2.jpeg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.63), rgba(0, 0, 0, 0.5)), url(../images/hero2.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.info .hero2 .callout {
+  display: block;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 200px;
+}
+.info .hero2 .callout h1 {
+  font-size: 35px;
+  color: palevioletred;
+  text-align: center;
+}
+
+.in {
+  margin-left: 90px;
+  margin-right: 90px;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+.in h1 {
+  color: palevioletred;
+}
+.in p {
+  font-size: 16px;
+}
+.in button {
+  width: 170px;
+  border: none;
+  height: 45px;
+  font-size: 16px;
+  border-radius: 30px;
+  background-color: palevioletred;
+  color: #fff;
+}
+.in button:hover {
+  background-color: black;
+  color: #fff;
+  border: none;
+}
