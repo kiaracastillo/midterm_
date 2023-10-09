@@ -36,8 +36,8 @@ const aboutRoute = `
 
 
 `;
-const productsRoute = `
-<h1>Products</h1>
+const infoRoute = `
+<h1>Information</h1>
 `;
 const contactRoute = `
 <div class="contact">
