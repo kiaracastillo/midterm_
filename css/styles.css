@@ -92,13 +92,25 @@ nav a:hover {
   height: 45px;
   font-size: 16px;
   border-radius: 30px;
-  background-color: black;
+  background-color: rgb(0, 0, 0);
   color: palevioletred;
 }
 .home .hero .callout button:hover {
   background-color: palevioletred;
   color: black;
   border: none;
+}
+.home .info {
+  margin-left: 90px;
+  margin-right: 90px;
+  margin-top: 60px;
+}
+.home .info h1 {
+  color: palevioletred;
+  font-size: 35px;
+}
+.home .info p {
+  font-size: 16px;
 }
 
 footer {
