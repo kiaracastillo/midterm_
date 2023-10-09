@@ -37,7 +37,24 @@ const aboutRoute = `
 
 `;
 const infoRoute = `
+<div class="info">
+<div class="hero">
+<div class="callout">
+<h1>Lorem</h1>
+<button>Lorem</button>
+</div>
 <h1>Information</h1>
+
+<p></p>Ut a orci pulvinar, eleifend nisi porta, ornare nisi. Nullam tristique libero quis justo commodo rhoncus. Integer ut dolor pellentesque, aliquet mi consectetur, pharetra sapien. Pellentesque bibendum lectus quis sem imperdiet, eget commodo urna feugiat. Nulla cursus nisl vitae tincidunt rutrum. Sed mollis a nisl non laoreet. Ut sit amet vulputate arcu. Praesent accumsan convallis facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi rutrum est et massa mollis, sit amet hendrerit lectus volutpat. Duis vel lobortis dolor. Vivamus nibh purus, faucibus sit amet vulputate in, scelerisque et justo.  nibh eu convallis imperdiet. Pellentesque vitae dictum libero. Donec vestibulum lectus felis, vel ultricies lorem imperdiet vel. Suspendisse non pharetra nisi, vitae varius sem. Praesent at massa purus. Maecenas in molestie justo, dignissim vulputate est. Sed a facilisis felis. In lacinia gravida tortor, quis fermentum augue porta eget. Vivamus dapibus lacus vitae venenatis suscipit. Ut at mauris vel augue vulputate dignissim nec non sem. Vestibulum ullamcorper gravida sem vehicula accumsan. Fusce non vestibulum diam.</p>
+<p></p>Ut a orci pulvinar, eleifend nisi</p>
+
+<p>Praesent a orci rhoncus neque dapibus maximus id at ex. Vestibulum ultricies ullamcorper massa eget malesuada. Aliquam sit amet orci ex. Nunc sodales nibh eu convallis imperdiet. Pellentesque vitae dictum libero. Donec vestibulum lectus felis, vel ultricies lorem imperdiet vel. Suspendisse non pharetra nisi, vitae varius sem. Praesent at massa purus. Maecenas in molestie justo, dignissim vulputate est. Sed a facilisis felis. In lacinia gravida tortor, quis fermentum augue porta eget. Vivamus dapibus lacus vitae venenatis suscipit. Ut at mauris vel augue vulputate dignissim nec non sem. Vestibulum ullamcorper gravida sem vehicula accumsan. Fusce non vestibulum diam.</p>
+<p></p>Ut a orci pulvinar, eleifend nisi porta, ornare nisi. Nullam tristique libero quis justo commodo rhoncus. Integer ut dolor pellentesque, aliquet mi consectetur, pharetra sapien. Pellentesque bibendum lectus quis sem imperdiet, eget commodo urna feugiat. Nulla cursus nisl vitae tincidunt rutrum. Sed mollis a nisl non laoreet. Ut sit amet vulputate arcu. Praesent accumsan convallis facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi rutrum est et massa mollis, sit amet hendrerit lectus volutpat. Duis vel lobortis dolor. Vivamus nibh purus, faucibus sit amet vulputate in, scelerisque et justo.</p>
+
+
+
+
+</div>
 `;
 const contactRoute = `
 <div class="contact">
