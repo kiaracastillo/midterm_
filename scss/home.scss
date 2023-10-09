@@ -25,19 +25,21 @@ color: #fff;
             }
             button{
                 width: 170px;
+                border: none;
 height: 45px;
 font-size: 16px;
 border-radius: 30px;
 background-color: rgb(0, 0, 0);
 color: palevioletred;
-border: ;
+
             }
 
             button:hover{
                 background-color: palevioletred;
 
                 color: black;
-                border-color: 1px solid black;
+                border: none;
+                
             }
         }
     }

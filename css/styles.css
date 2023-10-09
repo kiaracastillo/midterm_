@@ -88,6 +88,7 @@ nav a:hover {
 }
 .home .hero .callout button {
   width: 170px;
+  border: none;
   height: 45px;
   font-size: 16px;
   border-radius: 30px;
@@ -97,7 +98,26 @@ nav a:hover {
 .home .hero .callout button:hover {
   background-color: palevioletred;
   color: black;
-  border-color: 1px solid black;
+  border: none;
+}
+
+footer {
+  height: 60px;
+  background-color: black;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+footer span {
+  text-align: center;
+  color: palevioletred;
+  font-size: 20px;
 }
 
 .about-section {
@@ -118,23 +138,4 @@ nav a:hover {
   height: auto;
   width: 500px;
   margin: 0 auto;
-}
-
-footer {
-  height: 60px;
-  background-color: black;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-}
-footer span {
-  text-align: center;
-  color: palevioletred;
-  font-size: 20px;
 }

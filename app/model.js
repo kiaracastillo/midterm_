@@ -20,11 +20,14 @@ const aboutRoute = `
     <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis laborum ipsum, vel dolorem error dolorum unde praesentium doloremque quibusdam sed harum eaque, perspiciatis aperiam fugiat illo voluptates nulla, eos sequi?</p>
     </div>
 </div>
+
+
 `;
 const productsRoute = `
 <h1>Products</h1>
 `;
 const contactRoute = `
+<h1>Contact</h1>
 <h1>Contact</h1>
 
 `;
