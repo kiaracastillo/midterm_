@@ -11,7 +11,6 @@ const aboutRoute = `
     </div>
 </div>
 
-
 `;
 const productsRoute = `
 <h1>Products</h1>
