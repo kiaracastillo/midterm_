@@ -58,5 +58,11 @@ color: palevioletred;
 
 @media screen and (max-width: 768px) {
 
-    
+    .contact{
+        flex-direction: column;
+
+        h1{
+            margin-left: 25px;
+        }
+    }
 }

@@ -47,3 +47,15 @@
 .contact .contact-section .contact-form button:hover {
   background-color: rgb(214, 73, 120);
 }
+
+@media screen and (max-width: 768px) {
+  .contact {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .contact h1 {
+    margin-left: 25px;
+  }
+}
