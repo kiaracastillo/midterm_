@@ -60,6 +60,7 @@ p {
         -ms-flex-direction: column;
             flex-direction: column;
     background-color: palevioletred;
+    padding: 0;
   }
   .navbar .nav-link {
     max-width: 768px;
