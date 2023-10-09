@@ -40,7 +40,18 @@ const productsRoute = `
 <h1>Products</h1>
 `;
 const contactRoute = `
+<div class="contact">
 <h1>Contact</h1>
+<div class="contact-section">
+
+<div class="contact-form">
+    <input type="text" placeholder="Name">
+    <input type="email" placeholder="Enter email">
+    <textarea placeholder="Message"></textarea>
+    <button>Submit</button>
+</div>
+</div>
+
 
 
 `;
