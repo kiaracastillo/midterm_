@@ -46,6 +46,7 @@
 .in button {
   width: 170px;
   border: none;
+  margin-top: 40px;
   height: 45px;
   font-size: 16px;
   border-radius: 30px;
