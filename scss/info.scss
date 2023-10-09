@@ -37,6 +37,7 @@ text-align: center;
 
     h1{
         color: palevioletred;
+        margin-bottom: 20px;
 
     }
     p{
@@ -61,5 +62,17 @@ color: #fff;
         color: #fff;
         border: none;
 
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    .info{
+        flex-direction: column;
+        h1{
+            margin-bottom: 20px;
+        }
+
+       
     }
 }

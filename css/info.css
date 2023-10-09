@@ -39,6 +39,7 @@
 }
 .in h1 {
   color: palevioletred;
+  margin-bottom: 20px;
 }
 .in p {
   font-size: 16px;
@@ -57,4 +58,16 @@
   background-color: black;
   color: #fff;
   border: none;
+}
+
+@media screen and (max-width: 768px) {
+  .info {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .info h1 {
+    margin-bottom: 20px;
+  }
 }
