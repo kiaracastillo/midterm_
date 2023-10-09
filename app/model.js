@@ -9,6 +9,15 @@ const homeRoute = `
 </div>
 </div>
 
+<div class="info">
+<h1>Lorem ipsum dolor sit amet</h1>
+<p>orem ipsum dolor sit amet, consectetur adipiscing elit. Praesent in feugiat eros. Donec a dictum arcu. Mauris tincidunt blandit justo rhoncus cursus. Pellentesque dapibus dictum pharetra. Mauris lacinia magna vitae nisl volutpat sagittis at sed felis. Etiam sed urna velit. In sagittis, massa eu iaculis ullamcorper, felis felis facilisis leo, ut finibus diam sem molestie felis. Maecenas a est augue. Fusce ultricies porta pharetra. Nam fringilla tortor eu laoreet dapibus.</p>
+
+<p></p>Ut a orci pulvinar, eleifend nisi porta, ornare nisi. Nullam tristique libero quis justo commodo rhoncus. Integer ut dolor pellentesque, aliquet mi consectetur, pharetra sapien. Pellentesque bibendum lectus quis sem imperdiet, eget commodo urna feugiat. Nulla cursus nisl vitae tincidunt rutrum. Sed mollis a nisl non laoreet. Ut sit amet vulputate arcu. Praesent accumsan convallis facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi rutrum est et massa mollis, sit amet hendrerit lectus volutpat. Duis vel lobortis dolor. Vivamus nibh purus, faucibus sit amet vulputate in, scelerisque et justo.</p>
+
+<p>Praesent a orci rhoncus neque dapibus maximus id at ex. Vestibulum ultricies ullamcorper massa eget malesuada. Aliquam sit amet orci ex. Nunc sodales nibh eu convallis imperdiet. Pellentesque vitae dictum libero. Donec vestibulum lectus felis, vel ultricies lorem imperdiet vel. Suspendisse non pharetra nisi, vitae varius sem. Praesent at massa purus. Maecenas in molestie justo, dignissim vulputate est. Sed a facilisis felis. In lacinia gravida tortor, quis fermentum augue porta eget. Vivamus dapibus lacus vitae venenatis suscipit. Ut at mauris vel augue vulputate dignissim nec non sem. Vestibulum ullamcorper gravida sem vehicula accumsan. Fusce non vestibulum diam.</p>
+</div>
+
 </div>
 `;
 const aboutRoute = `
