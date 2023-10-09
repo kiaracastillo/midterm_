@@ -4,10 +4,10 @@ const homeRoute = `
 const aboutRoute = `
 <h1>About</h1>
 `;
-const booksRoute = `
+const productsRoute = `
 <h1>Products</h1>
 `;
-const blogRoute = `
+const contactRoute = `
 <h1>contact</h1>
 
 `;
