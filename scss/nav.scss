@@ -25,31 +25,26 @@
 
  //media query
  @media screen and (max-width: 768px) {
-    body {
-        max-width: 768px;
-        text-align: center;
-    }
-
     .navbar {
         height: 100%;
         display: flex;
+        margin: 0 auto;
+        text-align: center;
         flex-direction: column;
         background-color: palevioletred;
 
 
         .nav-link {
-            width: 100%;
+            max-width: 768px;
             height: 200px;
             display: flex;
             justify-content: center;
-            align-content: center;
-            margin: 0 auto;
-            text-align: center;
-            margin-right: 0;
+            align-items: center;
             color:#fff;
         }
 
         .nav-link:hover {
+            width:100%;
             background-color: black;
 
         }
