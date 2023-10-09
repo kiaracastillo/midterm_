@@ -1,0 +1,18 @@
+.about-section {
+    //background-color: aqua;
+    width: 75%;
+    height: 800px;
+ 
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 50px;
+ 
+    .about-content {
+     height: auto;
+     width: 500px;
+     margin: 0 auto;
+ 
+    }
+ }

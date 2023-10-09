@@ -13,4 +13,12 @@ nav{
     a:hover{
         color: palevioletred;
     }
+
+    @media screen and (max-width: 500px) {
+        nav a {
+            height: 100%;
+            align-items: left;
+        }
+    }
 }
+
